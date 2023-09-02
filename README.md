@@ -1,4 +1,3 @@
 # common-task-script
 
-This repo contain some common script that come handy to automate some task which require more manual effort.
-You can raise PR for any script that made your work day effortless.
+This repository contains common scripts that can automate tasks that require manual effort. Feel free to submit a pull request for any script that has made your workday more efficient.
